@@ -123,6 +123,6 @@ body {
 I think the code is self-explanatory, so feel free to enjoy making your own CSS too, **Artists**🎨
 
 ## Shoutout 🙏
-I wanna thank [frontend Mentor](www.frontendmentor.io) for making funny challenges.
+I wanna thank [frontend Mentor](https://www.frontendmentor.io/home) for making funny challenges.
 
   ### Again, please feel free to correct me if I made any issue 🙌
